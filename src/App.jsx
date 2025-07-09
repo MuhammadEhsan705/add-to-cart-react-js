@@ -1,4 +1,4 @@
-import Header from './components/header';
+import Header from './components/Header';
 import Products from './components/Products';
 import CardProvider from './context/CartProvider';
 import { ToastContainer } from 'react-toastify';
